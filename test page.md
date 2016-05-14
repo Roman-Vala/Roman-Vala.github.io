@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test page
-permalink: /about/
+permalink: /test/
 ---
 
 This is the test page hfdk dlfkn dflkd 
