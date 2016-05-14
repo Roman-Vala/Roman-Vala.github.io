@@ -2,12 +2,13 @@
 layout: page
 title: Test page
 permalink: /test/
+published: true
 ---
 
-This is the test page hfdk dlfkn dflkd 
+This is the ## test page hfdk dlfkn dflkd 
  dhdfkjndfkndflk df
  
- fv kldfjhdfkjn lffk
+ fv **kldfjhdfk**jn lffk
  
  'yddydyd'   `jkdjfhdks jjjj`
  
