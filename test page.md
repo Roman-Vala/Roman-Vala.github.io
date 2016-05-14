@@ -13,7 +13,7 @@ This is the test page hfdk dlfkn dflkd
  
  f f,jb dfkjn dk   
  
-  <img src="images/black_white.jpg" alt="black_white" width="200" height="200" />
+  <img src="../images/black_white.jpg" alt="black_white" width="200" height="200" />
   
   
  . You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
