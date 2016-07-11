@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Test page
-permalink: /test/
-published: true
+permalink: "/test/"
+layout: page
 ---
 
 This is the test page hfdk dlfkn dflkd 
