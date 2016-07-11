@@ -1,9 +1,6 @@
 ---
 title: Test page
 permalink: "/test/"
-test field:
-- ytrtn
-- trtyrty
 layout: page
 ---
 
