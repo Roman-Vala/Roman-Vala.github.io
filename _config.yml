@@ -1,6 +1,6 @@
 ---
 title: Mr. Wolf
-timezone: UTC
+timezone: Australia/Sydney
 collections:
   posts:
     title: Posts
@@ -11,7 +11,7 @@ collections:
 email: valaroman@hotmail.com
 description: |
   Mr. Wolf lives in Narrabeen suburb of Sydney Australia and he he is commited to solve problems, so if you have any computer related problem, Mr. Wolf will come to you and help
-baseurl: ''
+baseurl: 
 url: http://roman-vala.github.io/
 github_username: Roman-Vala
 markdown: kramdown
